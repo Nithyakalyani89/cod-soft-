@@ -6,14 +6,28 @@ A GUI is basically a medium to interact and present information to the users. On
 
 ## Steps to develop To-do List Project
 
-1.Import the Tkinter library
-2.Create to-do list app window
-3.create Add task
-4.Create delete task
+1.Import the Tkinter library:
+  In the first line, i am importing Tkinter which is basically a standard GUI library in Python and every possible object of it.
+  In second line, i am importing ttk from tkinter.
+  
+2.Create to-do list app window:
+   In this we create the class called todolist.
+   next step is Naming the window.
+   Dimension of the window has been entered.
+  * creation of label:
+    I have created the labels for the app.
+       
+3.create Add task:
+    Created Add buttons & task using def function.
+    used append for adding the tasks in the file.
+    Gave font size and color,background ground etc.,
+    
+4.Create delete task:
+    Created delete buttons & task using def function.
+    Gave font size and color,background ground etc.,
+    
+    
+   
 
-## 1.Import the Tkinder library:
-from  tkinter import * 
-import tkinter.messagebox
 
-##2.creating
 
