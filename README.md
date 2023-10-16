@@ -5,7 +5,15 @@ We are going to implement a simple python to-do list in which we can add a task 
 A GUI is basically a medium to interact and present information to the users. One of the major advantages of using Tkinter is that it works well on any machine be it windows, linux, or macOS.
 
 ## Steps to develop To-do List Project
+
 1.Import the Tkinter library
 2.Create to-do list app window
 3.create Add task
 4.Create delete task
+
+## 1.Import the Tkinder library:
+from  tkinter import * 
+import tkinter.messagebox
+
+##2.creating
+
